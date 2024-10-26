@@ -2,7 +2,7 @@
 title: "Exploring Concurrency and Parallelism: A Multi-Layered Journey"
 date: 2024-10-26T17:30:00-03:00
 draft: false
-tags: ["Concurrency", "Parallelism", "Database", "Programming Languages", "Applications", "Rust", "Redis", "PostgreSQL"]
+tags: ["Concurrency", "Parallelism", "Database", "Programming Languages", "Applications", "Rust", "Redis", "Postgres"]
 ---
 
 Hello, fellow tech enthusiasts! I'm excited to kick off a new series of articles exploring the fascinating world of Concurrency and Parallelism. As a backend and blockchain engineer, I've found these concepts to be crucial in developing efficient and scalable systems. In this series, we'll dive deep into how concurrency and parallelism work at different layers of the technology stack.

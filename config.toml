@@ -7,14 +7,16 @@ theme = "paper"
 contentDir = "content"
 
 [params]
-subtitle = 'The Best Widgets on Earth'
+subtitle = 'Backend Engineer | Thoughts on Technology and Programming'
 github = "lucaspere"
-twitter = "lucaspereira"
-linkedin = "lucasfapereira"
+twitter = "lucas_fellippe2"
+linkedin = "lucasfap"
 description = "Backend Engineer | Thoughts on Technology and Programming"
 name = "Lucas Pereira"
 bio = "Backend Engineer | Thoughts on Technology and Programming"
 comments = true
+showPoweredBy = false
+showThemeCredits = false
 
 [params.contact]
 email = 'lucasfapereira@gmail.com'
