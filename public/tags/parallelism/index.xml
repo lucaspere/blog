@@ -10,13 +10,6 @@
     <atom:link href="http://localhost:1313/tags/parallelism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Concurrency and Parallelism: A Multi-Layered Journey</title>
-      <link>http://localhost:1313/concurrency-parallelism-series-intro/</link>
-      <pubDate>Sat, 26 Oct 2024 17:30:00 -0300</pubDate>
-      <guid>http://localhost:1313/concurrency-parallelism-series-intro/</guid>
-      <description>&lt;p&gt;Hello, fellow tech enthusiasts! I&amp;rsquo;m excited to kick off a new series of articles exploring the fascinating world of Concurrency and Parallelism. As a backend and blockchain engineer, I&amp;rsquo;ve found these concepts to be crucial in developing efficient and scalable systems. In this series, we&amp;rsquo;ll dive deep into how concurrency and parallelism work at different layers of the technology stack.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-this-series&#34;&gt;Why This Series?&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve recently embarked on a learning journey, studying concurrency and parallelism across various layers:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Exploring Concurrency and Parallelism: A Multi-Layered Journey</title>
       <link>http://localhost:1313/posts/concurrency-parallelism-series-intro/</link>
       <pubDate>Sat, 26 Oct 2024 17:30:00 -0300</pubDate>
       <guid>http://localhost:1313/posts/concurrency-parallelism-series-intro/</guid>

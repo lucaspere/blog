@@ -20,29 +20,24 @@ comments = true
 email = 'lucasfapereira@gmail.com'
 
 [params.giscus]
-repo = 'YOUR_GISCUS_REPO'              # see https://giscus.app for more details
-repoId = 'YOUR_GISCUS_REPO_ID'
-category = 'YOUR__GISCUS_CATEGORY'
-categoryId = 'YOUR_GISCUS_CATEGORY_ID'
+repo = 'lucaspere/blog'
+repoId = 'R_kgDONGVdbQ'
+reactionsEnabled = true
+emitMetadata = false
+inputPosition = 'bottom'
+theme = 'dark'
+lang = 'en'
+crossorigin = 'anonymous'
+category = 'General'
+categoryId = 'DIC_kwDONGVdbc4CjuIe'
 mapping = 'pathname'
-theme = 'light'
-lang = 'zh-CN'
 
 [menu]
-[[menu.main]]
-url = "/"
-
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
 weight = 10
-
-[[menu.main]]
-identifier = "articles"
-name = "Articles"
-url = "/posts/"
-weight = 20
 
 [module]
 [[module.imports]]
