@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Oct 2024 17:30:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Concurrency and Parallelism: A Multi-Layered Journey</title>
+      <link>http://localhost:1313/concurrency-parallelism-series-intro/</link>
+      <pubDate>Sat, 26 Oct 2024 17:30:00 -0300</pubDate>
+      <guid>http://localhost:1313/concurrency-parallelism-series-intro/</guid>
+      <description>&lt;p&gt;Hello, fellow tech enthusiasts! I&amp;rsquo;m excited to kick off a new series of articles exploring the fascinating world of Concurrency and Parallelism. As a backend and blockchain engineer, I&amp;rsquo;ve found these concepts to be crucial in developing efficient and scalable systems. In this series, we&amp;rsquo;ll dive deep into how concurrency and parallelism work at different layers of the technology stack.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-this-series&#34;&gt;Why This Series?&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve recently embarked on a learning journey, studying concurrency and parallelism across various layers:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploring Concurrency and Parallelism: A Multi-Layered Journey</title>
+      <link>http://localhost:1313/posts/concurrency-parallelism-series-intro/</link>
+      <pubDate>Sat, 26 Oct 2024 17:30:00 -0300</pubDate>
+      <guid>http://localhost:1313/posts/concurrency-parallelism-series-intro/</guid>
+      <description>&lt;p&gt;Hello, fellow tech enthusiasts! I&amp;rsquo;m excited to kick off a new series of articles exploring the fascinating world of Concurrency and Parallelism. As a backend and blockchain engineer, I&amp;rsquo;ve found these concepts to be crucial in developing efficient and scalable systems. In this series, we&amp;rsquo;ll dive deep into how concurrency and parallelism work at different layers of the technology stack.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-this-series&#34;&gt;Why This Series?&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve recently embarked on a learning journey, studying concurrency and parallelism across various layers:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 26 Oct 2024 16:58:06 -0300</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;lucas-pereira&#34;&gt;Lucas Pereira&lt;/h1&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a Full-Stack and Blockchain Engineer passionate about User/Developer Experience and API design. Currently, I&amp;rsquo;m focused on WebAssembly and Real-time development. I thrive on building real-time applications and high performative services.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-professional-experience&#34;&gt;💼 Professional Experience&lt;/h2&gt;&#xA;&lt;p&gt;As a Backend Developer at Plank, my responsibilities include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developing high-performance APIs capable of handling thousands of transactions per minute&lt;/li&gt;&#xA;&lt;li&gt;Creating and maintaining real-time applications to enhance user and group engagement&lt;/li&gt;&#xA;&lt;li&gt;Utilizing WebAssembly and Rust for blockchain development&lt;/li&gt;&#xA;&lt;li&gt;Implementing comprehensive full-stack solutions for blockchain applications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-technical-expertise&#34;&gt;🛠️ Technical Expertise&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Blockchain&lt;/strong&gt;: NEAR Protocol, Solana&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;API Development&lt;/strong&gt;: gRPC, REST, GraphQL, RabbitMQ&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databases&lt;/strong&gt;: PostgreSQL, MongoDB, Redis&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: React.js&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Node.js, Rust&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cloud Platforms&lt;/strong&gt;: AWS, GCP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-preferred-programming-languages&#34;&gt;💻 Preferred Programming Languages&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;amp;logo=typescript&amp;amp;logoColor=white&#34; alt=&#34;TypeScript&#34;&gt;&#xA;&lt;img src=&#34;https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;amp;logo=rust&amp;amp;logoColor=white&#34; alt=&#34;Rust&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

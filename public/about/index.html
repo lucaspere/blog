@@ -1,0 +1,400 @@
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+  dir="ltr"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>About Me - Blog</title>
+
+  
+  <meta name="theme-color" />
+
+  
+  
+  
+  
+  <meta name="description" content="Lucas Pereira
+
+
+I&rsquo;m a Full-Stack and Blockchain Engineer passionate about User/Developer Experience and API design. Currently, I&rsquo;m focused on WebAssembly and Real-time development. I thrive on building real-time applications and high performative services.
+💼 Professional Experience
+As a Backend Developer at Plank, my responsibilities include:
+
+Developing high-performance APIs capable of handling thousands of transactions per minute
+Creating and maintaining real-time applications to enhance user and group engagement
+Utilizing WebAssembly and Rust for blockchain development
+Implementing comprehensive full-stack solutions for blockchain applications
+
+🛠️ Technical Expertise
+
+Blockchain: NEAR Protocol, Solana
+API Development: gRPC, REST, GraphQL, RabbitMQ
+Databases: PostgreSQL, MongoDB, Redis
+Frontend: React.js
+Backend: Node.js, Rust
+Cloud Platforms: AWS, GCP
+
+💻 Preferred Programming Languages
+
+" />
+  <meta name="author" content="Lucas Pereira" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
+
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  <link rel="preload" as="image" href="http://localhost:1313/twitter.svg" />
+  
+  <link rel="preload" as="image" href="http://localhost:1313/github.svg" />
+  
+  <link rel="preload" as="image" href="http://localhost:1313/linkedin.svg" />
+  
+  
+
+  
+  
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+  
+  
+
+  
+  <link
+    rel="icon"
+    href="http://localhost:1313/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="http://localhost:1313/apple-touch-icon.png"
+  />
+
+  
+  <meta name="generator" content="Hugo 0.136.5">
+
+  
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-[--w] px-8 lg:justify-center">
+  <div class="relative z-50 ltr:mr-auto rtl:ml-auto flex items-center">
+    <a class="-translate-y-[1px] text-2xl font-medium" href="http://localhost:1313/"
+      >Blog</a
+    >
+    <div
+      class="btn-dark text-[0] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 ltr:-mr-8 rtl:-ml-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-10 rtl:space-x-reverse">
+      
+      <a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/about/"
+        >About</a
+      >
+      
+      <a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/posts/"
+        >Articles</a
+      >
+      
+      <a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/"
+        ></a
+      >
+      
+    </nav>
+    
+
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 rtl:space-x-reverse dark:invert ltr:lg:ml-14 rtl:lg:mr-14 lg:mt-0 lg:items-center"
+    >
+      
+      <a
+        class="h-7 w-7 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./twitter.svg)"
+        href="https://twitter.com/lucaspereira"
+        target="_blank"
+        rel="me"
+      >
+        twitter
+      </a>
+      
+      <a
+        class="h-7 w-7 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./github.svg)"
+        href="https://github.com/lucaspere"
+        target="_blank"
+        rel="me"
+      >
+        github
+      </a>
+      
+      <a
+        class="h-7 w-7 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./linkedin.svg)"
+        href="https://linkedin.com/in/lucasfapereira"
+        target="_blank"
+        rel="me"
+      >
+        linkedin
+      </a>
+      
+    </nav>
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-[--w] px-8 pb-16 pt-14 dark:prose-invert"
+    >
+      
+
+<article>
+  <header class="mb-14">
+    <h1 class="!my-0 pb-2.5">About Me</h1>
+
+    
+  </header>
+
+  <section><h1 id="lucas-pereira">Lucas Pereira</h1>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>I&rsquo;m a Full-Stack and Blockchain Engineer passionate about User/Developer Experience and API design. Currently, I&rsquo;m focused on WebAssembly and Real-time development. I thrive on building real-time applications and high performative services.</p>
+<h2 id="-professional-experience">💼 Professional Experience</h2>
+<p>As a Backend Developer at Plank, my responsibilities include:</p>
+<ul>
+<li>Developing high-performance APIs capable of handling thousands of transactions per minute</li>
+<li>Creating and maintaining real-time applications to enhance user and group engagement</li>
+<li>Utilizing WebAssembly and Rust for blockchain development</li>
+<li>Implementing comprehensive full-stack solutions for blockchain applications</li>
+</ul>
+<h2 id="-technical-expertise">🛠️ Technical Expertise</h2>
+<ul>
+<li><strong>Blockchain</strong>: NEAR Protocol, Solana</li>
+<li><strong>API Development</strong>: gRPC, REST, GraphQL, RabbitMQ</li>
+<li><strong>Databases</strong>: PostgreSQL, MongoDB, Redis</li>
+<li><strong>Frontend</strong>: React.js</li>
+<li><strong>Backend</strong>: Node.js, Rust</li>
+<li><strong>Cloud Platforms</strong>: AWS, GCP</li>
+</ul>
+<h2 id="-preferred-programming-languages">💻 Preferred Programming Languages</h2>
+<p><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust"></p>
+<h2 id="-education">🎓 Education</h2>
+<p>Bachelor&rsquo;s degree in Software Engineer at Pontifícia Universidade Católica de Minas Gerais (PUC-Minas), 2024</p>
+<h2 id="-current-focus">🌱 Current Focus</h2>
+<p>I&rsquo;m continuously expanding my knowledge and skills. My current areas of focus include:</p>
+<ul>
+<li>Advanced blockchain development, with a particular emphasis on NEAR Protocol</li>
+<li>Exploring WebAssembly and its blockchain applications</li>
+</ul>
+<h2 id="-connect-with-me">📫 Connect with Me</h2>
+<p><a href="https://www.linkedin.com/in/lucas-pereira-b2329b188/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/lucaspere"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a></p>
+<p>Thank you for visiting my blog. I hope you find my articles informative and engaging!</p>
+</section>
+
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <div class="giscus mt-24"></div>
+  <script
+    src="https://giscus.app/client.js"
+    data-repo="YOUR_GISCUS_REPO"
+    data-repo-id="YOUR_GISCUS_REPO_ID"
+    data-category="YOUR__GISCUS_CATEGORY"
+    data-category-id="YOUR_GISCUS_CATEGORY_ID"
+    data-mapping="pathname"
+    data-strict="1"
+    data-reactions-enabled="0"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="light"
+    data-lang="zh-CN"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async
+  ></script>
+  
+</article>
+
+
+    </main>
+
+    <footer
+  class="mx-auto flex h-[4.5rem] max-w-[--w] items-center px-8 text-xs uppercase tracking-wider opacity-60"
+>
+  <div class="mr-auto">
+  
+    &copy; 2024
+    <a class="link" href="http://localhost:1313/">Blog</a>
+  
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >powered by hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >hugo-paper</a
+  >
+</footer>
+
+  </body>
+</html>
